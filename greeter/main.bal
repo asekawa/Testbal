@@ -28,3 +28,4 @@ service asgardeo:NotificationService on webhookListener {
 }
 
 service /ignore on httpListener {}
+
